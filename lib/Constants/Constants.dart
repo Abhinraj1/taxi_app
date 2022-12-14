@@ -19,6 +19,6 @@ final Location location =  Location();
 
 
 class Const{
- String apiKey = "AIzaSyA2siLk9bbMPwIUFtI9sT4iOPYnawiMBec";
+ String apiKey = "API KEY HERE";
 }
 
